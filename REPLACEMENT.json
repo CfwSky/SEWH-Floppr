@@ -1,0 +1,55 @@
+{
+  "sewh": {
+    "song1": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
+    "song2": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/drmario.ogg",
+    "song3": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/windmill.mp3",
+    "song4": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/AE.ogg",
+    "song5": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/BBM.ogg",
+    "song6": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/BBT.ogg",
+    "song7": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/FP.ogg",
+    "song8": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/LR.ogg",
+    "song9": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RRC.ogg",
+    "song10": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RTRO.ogg",
+    "song11": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SHP.ogg",
+    "song12": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SM.ogg",
+    "song13": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SMWL.ogg",
+    "song14": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SR.ogg",
+    "song15": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SRR.ogg",
+    "song16": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/TGF.ogg",
+    "song17": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SRR.ogg",
+    "song18": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RTRO.ogg",
+    "song19": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/SR.ogg",
+    "song20": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/TGF.ogg",
+    "song21": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/Auron.mp3",
+    "song22": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
+    "song23": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RTRO.ogg",
+    "song24": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
+    "song25": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/FP.ogg",
+    "song26": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/BBM.ogg",
+    "song27": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RRC.ogg",
+    "song28": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/NBC.ogg",
+    "laugh": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/laugh.ogg"
+  },
+  "intro": {
+    "Christmas Intro": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/intro/AND.ogg",
+    "Loading Finished": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/intro/WTMK.mp3"
+  },
+  "round": {
+    "Round Start": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/o_Start2_32_fan2.wav",
+    "Round Start (2)": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/o_Start2_32_fan2.wav",
+    "Increased Difficulty": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/increase.mp3",
+    "Decreased Difficulty": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/decrease.mp3",
+    "Finalized Difficulty": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/impact.ogg"
+  },
+  "finish": {
+    "Round Finish": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/GR.ogg"
+  },
+  "sounds": {
+    "Mesmerizer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/echoboloop.mp3",
+    "Chess": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/clubfootloop.mp3",
+    "Dancing with your eyes closed": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/vidyaloop.mp3",
+    "Oneyplays": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/squidwardyell.wav",
+    "Yoinky": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/no.mp3",
+    "Number": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/soulja.wav"
+  }
+}
