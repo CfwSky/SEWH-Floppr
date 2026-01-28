@@ -1,6 +1,6 @@
 {
   "sewh": {
-    "song1": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
+    "song1": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/target.ogg",
     "song2": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/drmario.ogg",
     "song3": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/windmill.mp3",
     "song4": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/AE.ogg",
@@ -23,11 +23,12 @@
     "song21": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/Auron.mp3",
     "song22": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
     "song23": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RTRO.ogg",
-    "song24": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
+    "song24": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/overclockremix.ogg",
     "song25": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/FP.ogg",
     "song26": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/BBM.ogg",
     "song27": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/RRC.ogg",
     "song28": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/NBC.ogg",
+    "song29": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/GC.ogg",
     "laugh": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/laugh.ogg"
   },
   "intro": {
@@ -52,4 +53,5 @@
     "Yoinky": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/no.mp3",
     "Number": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/soulja.wav"
   }
+
 }
