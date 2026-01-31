@@ -86,7 +86,12 @@
   "finish": {
     "Round Finish": "97176864620439"
   },
-  "sounds": {
+  "player sounds": {
+    "jump": "92846867064249",
+    "parry": "134056935457805",
+    "parryfail": "133096948161567"
+  },
+  "emotes": {
     "Mesmerizer": "73098892235016",
     "Chess": "119533082084493",
     "Dancing with your eyes closed": "112173294372879",
