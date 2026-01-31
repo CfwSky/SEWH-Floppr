@@ -86,7 +86,7 @@
   "finish": {
     "Round Finish": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/GR.ogg"
   },
-  "sounds": {
+  "emotes": {
     "Mesmerizer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/echoboloop.mp3",
     "Chess": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/clubfootloop.mp3",
     "Dancing with your eyes closed": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/vidyaloop.mp3",
