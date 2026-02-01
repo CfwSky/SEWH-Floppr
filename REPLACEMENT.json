@@ -86,6 +86,11 @@
   "finish": {
     "Round Finish": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/GR.ogg"
   },
+   "player sounds": {
+    "jump": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/jump.ogg",
+    "footstepsfinal": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/stepfinal.ogg",
+    "footstepslite": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/steplite.ogg"
+  },
   "emotes": {
     "Mesmerizer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/echoboloop.mp3",
     "Chess": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/clubfootloop.mp3",
