@@ -74,6 +74,7 @@
   },
   "intro": {
     "Christmas Intro": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/intro/AND.ogg",
+    "REAL intro": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/intro/AND_REAL.ogg",
     "Loading Finished": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/intro/WTMK.mp3"
   },
   "round": {
