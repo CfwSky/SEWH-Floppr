@@ -85,7 +85,9 @@
     "Finalized Difficulty": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/round/impact.ogg"
   },
   "finish": {
-    "Round Finish": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/GR.ogg"
+    "Round Finish": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/GR.ogg",
+    "Rose Lose": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/loseneutral.wav",
+    "Round Neutral": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/finish/loseneutral.wav"
   },
    "player sounds": {
     "jump": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/jump.ogg",
