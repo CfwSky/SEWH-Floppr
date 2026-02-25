@@ -85,7 +85,9 @@
     "Finalized Difficulty": "122484460561406"
   },
   "finish": {
-    "Round Finish": "97176864620439"
+    "Round Finish": "97176864620439",
+    "Round Lose": "95775376895834",
+    "Round Neutral": "110000867032360"
   },
   "player sounds": {
     "jump": "92846867064249",
