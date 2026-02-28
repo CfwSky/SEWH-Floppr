@@ -92,7 +92,9 @@
    "player sounds": {
     "jump": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/jump.ogg",
     "footstepsfinal": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/stepfinal.ogg",
-    "footstepslite": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/steplite.ogg"
+    "footstepslite": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/steplite.ogg",
+    "death sound2": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/gameover.ogg",
+    "other player death/assist": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/mariodeath.ogg"
   },
   "emotes": {
     "Mesmerizer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/echoboloop.mp3",
@@ -101,7 +103,6 @@
     "Oneyplays": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/squidwardyell.wav",
     "Yoinky": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/no.mp3",
     "Number": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/soulja.wav",
-    "boiii": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/luci4.mp3"
+    "luci4": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/luci4.mp3"
   }
 }
-
