@@ -96,6 +96,14 @@
     "death sound2": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/gameover.ogg",
     "other player death/assist": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/mariodeath.ogg"
   },
+   "Images": {
+    "sewh logo": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/sewhpurple.png",
+    "sewh logo (sky watermark)": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/sewhsky.png",
+    "play button circle": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/play.png",
+    "hardcore icon": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/hardcore.png",
+    "No PVP Server icon": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/casualicon.png",
+    "play button background": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/decals/button.png"
+  },
   "emotes": {
     "Mesmerizer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/echoboloop.mp3",
     "Chess": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/clubfootloop.mp3",
