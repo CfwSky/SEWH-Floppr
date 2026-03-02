@@ -105,6 +105,13 @@
     "death sound2": "95799523781191",
     "other player death/assist": "110236475985196"
   },
+  "Images": {
+    "sewh logo": "113350052945180",
+    "play button circle": "81301545871424",
+    "hardcore icon": "94962886746405",
+    "No PVP Server icon": "70533914101707",
+    "play button background": "112128137710670"
+  },
   "emotes": {
     "Mesmerizer": "73098892235016",
     "Chess": "119533082084493",
