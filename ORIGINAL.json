@@ -166,7 +166,13 @@
     "AlienRed4": "1012890",
     "AlienRed5": "1012891",
     "AlienRed1": "1012888",
-    "AlienRed6": "1014449"
+    "AlienRed6": "1014449",
+     "stormtop": "139876628337904",
+    "stormfront": "93881195587791",
+    "stormbottom": "110799331220740",
+    "stormleft  ": "104856096412084",
+    "stormright": "125545011329262",
+    "stormback": "103072707132130"
   },
   "emotes": {
     "Mesmerizer": "73098892235016",
