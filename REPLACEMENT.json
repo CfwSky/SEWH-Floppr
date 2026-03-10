@@ -112,6 +112,15 @@
     "footstepsfinal": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/stepfinal.ogg",
     "footstepslite": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/steplite.ogg",
     "death sound2": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/gameover.ogg",
+    "violin death": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/guitar.mp3",
+    "anvil": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/anvil.mp3",
+    "bonk": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/bonk.mp3",
+    "dink": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/dink.mp3",
+    "donk": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/donk.mp3",
+    "hammer": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/hammer.mp3",
+    "kaploot": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/kaploot.mp3",
+    "parry": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/parry.mp3",
+    "parryfail": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/parryfail.mp3",
     "other player death/assist": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/main/main/assets/sounds/sewh/player/mariodeath.ogg"
   },
    "Images": {
